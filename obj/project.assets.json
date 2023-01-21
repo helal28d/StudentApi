@@ -6362,19 +6362,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\helal\\.nuget\\packages\\": {}
+    "C:\\Users\\helal_dahi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Multi\\WEB\\asp core\\API\\Projects\\Test\\Test.csproj",
+      "projectUniqueName": "F:\\Multi\\1Web\\asp core\\API\\Projects\\ApiReact\\test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "E:\\Multi\\WEB\\asp core\\API\\Projects\\Test\\Test.csproj",
-      "packagesPath": "C:\\Users\\helal\\.nuget\\packages\\",
-      "outputPath": "E:\\Multi\\WEB\\asp core\\API\\Projects\\Test\\obj\\",
+      "projectPath": "F:\\Multi\\1Web\\asp core\\API\\Projects\\ApiReact\\test\\Test.csproj",
+      "packagesPath": "C:\\Users\\helal_dahi\\.nuget\\packages\\",
+      "outputPath": "F:\\Multi\\1Web\\asp core\\API\\Projects\\ApiReact\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\helal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\helal_dahi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

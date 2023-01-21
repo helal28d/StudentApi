@@ -6,6 +6,7 @@ namespace Test.Models
         public string FirstName { get; set; }
         public string lastName { get; set; }
         public  string Phone { get; set; }
+        public string Image { get; set; }
         
         //1-1 relation for this example 1 product for 1 customer
         public Product Product { get; set; }
